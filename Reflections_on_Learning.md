@@ -1,7 +1,7 @@
 # Reflections on 'Learning How to Learn' by Barbara Oakley and Terrence Sejnowski
 
 I completed the Coursera course on 'Learning How to Learn' by Barbara Oakley and Terrence Sejnowski from October 2022 to November 2022.
-I had seen the course recommended by a number of different people, including Leon Noel of #100Devs, and I thought that anything that could help me to learn more eficiently would be worth the time upfront. I've summarised the main points that I took from this course, and how they applied to learning coding below:
+I had seen the course recommended by a number of different people, including Leon Noel of #100Devs, and I thought that anything that could help me to learn more efficiently would be worth the time upfront. I've summarised the main points that I took from this course, and how they applied to learning coding below:
 
 ## Key Points:
 * There are Two Modes of Thinking
