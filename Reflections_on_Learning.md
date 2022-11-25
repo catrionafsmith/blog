@@ -34,7 +34,7 @@ In teaching, we talk about being in the Zone of Proximal Development, which is t
 One of the drivers of procrastination can be the fear and pain of producing a rubbish end product. So one way to overcome this is to focus on the process, not the end product. Using a pomodoro timer and saying that you will just work towards something for 25 focused minutes is a good way to just get started on a project.
 
 
-## Perseverence, aka ‘the virtue of the less brilliant’. 
+## Perseverance, aka ‘the virtue of the less brilliant’. 
 The more you practice something, the better you will get (as long as your practice is directed and correct!). So basically if you can persevere in your practice, then you will achieve your goals sooner or later.
 For me, working on the #100DaysofCode meant that I was obliged to code every day, and my stubbornness in keeping this consistent streak going helped me to continue coding even when ther were times when I would rather have not!
 
